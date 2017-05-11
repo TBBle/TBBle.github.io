@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-gems:
-  - jekyll-optional-front-matter
+kramdown:
+  input: GFM
+  hard_wrap: false
