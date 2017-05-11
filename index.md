@@ -1,6 +1,6 @@
 # Honest TBBle's Discount Website
 
-Currently this page is just a chance to try out [prose.io](http://prose.io/) as a site-management program.
+Currently this page is just a chance to try out [prose.io](http://prose.io/) as a page editor.
 
 You're more likely to be looking for one of the below:
 * [文字馬鹿: A fool of words](https://blog.tbble.org/) - My rarely-updated blog
