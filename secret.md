@@ -1,5 +1,4 @@
 ---
-title: Document Center
 ---
 
 ## A New Post
