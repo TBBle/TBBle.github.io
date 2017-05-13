@@ -1,4 +1,4 @@
-# Honest TBBle's Discount Website
+# Table of Contents
 
 You're likely to be looking for one of the below:
 * [文字馬鹿: A fool of words](https://blog.tbble.org/) - My rarely-updated blog
