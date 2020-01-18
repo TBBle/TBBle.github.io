@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 kramdown:
   input: GFM
   hard_wrap: false
+
+title: www.tbble.org
+show_downloads: false
