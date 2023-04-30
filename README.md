@@ -1,6 +1,7 @@
 # Table of Contents
 
 You're likely to be looking for one of the below:
+
 * [私は世界を革命するしかない](https://blog.tbble.org/) - My blog, if I have anything to post.
 * [https://github.com/tbble/](https://github.com/tbble/) - My public git repositories
 * [SG14 proposal: Comparing Virtual Functions](https://github.com/WG21-SG14/SG14-comparing-virtual-functions) - An ISO C++ proposal I'd agreed to help with, but never put in the time I intended, so it never advanced.
